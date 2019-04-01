@@ -1,0 +1,37 @@
+.login{
+    background-color: black;
+    height: 100vh;
+    position: relative;
+    right: 3vw;
+}
+/*
+.bloc{
+    background-color: darkred;
+    height: 45vh;
+    width: 30vw;
+    margin: auto;
+    position: relative;
+    top: 16vh;
+}*/
+.email{
+    position: relative;
+    left: 35vw;
+    top: 30vh;
+}
+.input{
+    background-color: white;
+    margin-top: 5vh;
+}
+.button{
+    margin-left: 12vw;
+    margin-top: 5vh;
+}
+.alerts11{
+    position: relative;
+    top: 10vh;
+    margin: auto;
+}
+.MuiButton-contained-14{
+    background-color: #7E0A0A!important;
+    color: white!important;
+}

@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #000;
+    height: 8.5vh;
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 10;
+//border-bottom: darkred solid 1px;
+    //background-attachment: fixed;
+
+}
+.co{
+    color: darkred;
+    position: relative;
+    left: 5vw;
+}
+a{
+    color: white;
+    padding-left: 3vw;
+    font-size: 14px;
+}
+a:hover{
+    text-decoration: none;
+    color: #989898;
+}
+.menu{
+    //background-color: white;
+}
+.profil{
+    color: white;
+    position: absolute;
+    right: 0;
+}
+.ps{
+    //font-size: 25px;
+    transition: transform .6s;
+
+}
+.ps:hover{
+    transform: scale(1.1);
+    color: #989898;
+}

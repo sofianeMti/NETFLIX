@@ -1,0 +1,88 @@
+.titre7{
+    position: relative;
+    top: 10vh;
+    padding-left: 12vw;
+    color: white;
+}
+.listEpisode{
+    position: relative;
+    top: 15vh;
+    border-bottom: #630303 solid 1px;
+    transition: transform .6s;
+
+}
+.titreEpisode{
+    color: white;
+    text-align: center;
+}
+.nbrEpisode{
+    color: #282c34;
+}
+.descriptionEpisode{
+    color: white;
+}
+.dateEpisode{
+    color: white;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 2vh;
+}
+
+.listEpisode:hover{
+    transform: scale(1.1);
+}
+.vue{
+    color: #7E0A0A;
+}
+.vue:hover{
+    color: #282c34;
+}
+.mar{
+    font-size: 13px;
+}
+.alerts5{
+    position: relative;
+    top: 13vh;
+    right: 5vw;
+    background-color: #282c34;
+    border: #282c34 solid 1px;
+    color: #fff;
+}
+.be{
+    position: relative;
+    top: 5vh;
+    float: right;
+    right: 5vw;
+    background-color: #7E0A0A;
+}
+.comments{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-left: 9.5vw;
+    background-color: #7E0A0A;
+    z-index: 10;
+}
+.sp{
+    color: white;
+}
+.in{
+    background-color: white;
+    margin-top: 4vh;
+    position: relative;
+    top: 1vh;
+}
+.mar{
+    color: #7E0A0A;
+}
+.blocVue{
+    position: relative;
+    top: 4vh;
+    right: 1.5vw;
+}
+.send{
+    position: relative;
+    top: 3vh;
+}

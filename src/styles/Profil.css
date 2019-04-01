@@ -1,0 +1,97 @@
+.titreProfil{
+    color: white;
+    position: relative;
+    top: 10vh;
+    //left: 10vw;
+    margin-left: 5vh;
+    width: 35vw;
+
+}
+.pseudo{
+    width: 40vh;
+    position: relative;
+    top: 20vh;
+    left: 5vw;
+    border-bottom: #7E0A0A solid 1px;
+    transition: transform .6s;
+}
+.pseudo:hover{
+    transform: scale(1.1);
+}
+.plusAmis{
+    float: right;
+    position: relative;
+    top: 1vh;
+    padding-left: 3vw;
+}
+.plusAmis:hover{
+    color: #fff;
+}
+.nom{
+    color: white;
+}
+.nom2{
+    color: white;
+}
+.vosAmis{
+    position: relative;
+    top: 15vh;
+    margin-left: 10vh;
+    color: white;
+    width: 15vw;
+}
+.searchInput{
+    //background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 10vh;
+    margin-right: 10vw;
+}
+.sendPseudo{
+    background-color: #7E0A0A;
+    border: #7E0A0A solid 1px;
+    position: relative;
+    left: 20vw;
+    border-radius: 4px;
+}
+.addFriend{
+    //height: 15vh;
+    width: 40vw;
+    right: 0;
+    position: absolute;
+    margin-top: 5vh;
+    margin-right: 15vw;
+    border-bottom: #7E0A0A solid 1px;
+}
+.addLogo{
+    float: right;
+}
+.addLogo:hover{
+    color: white;
+}
+.alert10{
+    position: relative;
+    bottom: 20vh;
+    color: #7E0A0A;
+}
+.alertsChamp{
+    position: relative;
+    color: white;
+    top: 13vh;
+    float: right;
+    right: 5vw;
+    background-color: #7E0A0A;
+}
+.alertsDemande{
+    position: relative;
+    color: white;
+    float: right;
+    bottom: 18vh;
+    right: 5vw;
+    opacity: 0.5;
+    background-color: #7E0A0A;
+}
+.alertsDemande:hover{
+    background-color: #630303;
+}
